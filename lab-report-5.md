@@ -15,9 +15,9 @@ ___
 diff m3/results.txt markdown-parser/results.txt"
 ```
 
-> I renamed my own implementation `markdown-parse` to `m3`.
-> And I cloned professor implementation `markdown-parse`.
-> Here is the output after I run the command in terminal.
+> I renamed my own implementation `markdown-parser` to `m3`.
+> And I cloned professor implementation `markdown-parser`.
+> Here is the output after I run the command to compare them in my terminal.
 
 ![result](resulttxt.png)
 
