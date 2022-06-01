@@ -24,6 +24,7 @@ diff m3/results.txt markdown-parser/results.txt"
 # Test 1.
 
 > As shown in the screenshot below, we can see the difference is exist in line 270.
+> actual output
 ![test1](test1.png)
 
 > As shown in the screenshot below, we can find the testing correspond to the markdown file: 
@@ -32,6 +33,7 @@ diff m3/results.txt markdown-parser/results.txt"
 > We can use the command "cat" to check the content in the 22.md line.
 ![cat1](cat1.png)
 
+> Expecting output by using the CommonMark demo site.
 ![output1](test1output.png)
 
 # Test 2.
@@ -42,8 +44,9 @@ diff m3/results.txt markdown-parser/results.txt"
 > As shown in the screenshot below, we can find the testing correspond to the markdown file: 
 ![code2](test2code.png)
 
-> We can use the command "cat" to check the content in the 22.md line.
+> We can use the command "cat" to check the content in the 32.md line.
 ![cat2](cat2.png)
 
+> Expecting output by using the CommonMark demo site.
 ![output2](test2output.png)
 
