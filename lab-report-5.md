@@ -30,7 +30,7 @@ diff m3/results.txt markdown-parser/results.txt"
 > As shown in the screenshot below, we can find the testing correspond to the markdown file: 
 ![code1](test1code.png)
 
-> We can use the command "cat" to check the content in the 22.md line.
+> We can use the command `cat` to check the content in the 22.md line.
 ![cat1](cat1.png)
 
 > The expecting output by using [the CommonMark demo site](https://spec.commonmark.org/dingus/).
@@ -44,7 +44,7 @@ diff m3/results.txt markdown-parser/results.txt"
 > As shown in the screenshot below, we can find the testing correspond to the markdown file: 
 ![code2](test2code.png)
 
-> We can use the command "cat" to check the content in the 32.md line.
+> We can use the command `cat` to check the content in the 32.md line.
 ![cat2](cat2.png)
 
 > The expecting output by using [the CommonMark demo site](https://spec.commonmark.org/dingus/).
