@@ -25,11 +25,15 @@ diff m3/results.txt markdown-parser/results.txt"
 
 ![test1]test1code.png)
 
+![cat1](cat1.png)
+
 ![output1](test1output.png)
 
 # Test 2.
 
 ![test2](test2code.png)
+
+![cat2](cat2.png)
 
 ![output2](test2output.png)
 
