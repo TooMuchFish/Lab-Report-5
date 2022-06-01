@@ -23,7 +23,7 @@ diff m3/results.txt markdown-parser/results.txt"
 
 # Test 1.
 
-![test1]test1code.png)
+![test1](test1code.png)
 
 ![cat1](cat1.png)
 
