@@ -23,19 +23,26 @@ diff m3/results.txt markdown-parser/results.txt"
 
 # Test 1.
 
+> As shown in the screenshot below, we can see the difference is exist in line 270.
 ![test1](test1.png)
 
+> As shown in the screenshot below, we can find the testing correspond to the markdown file: 
 ![code1](test1code.png)
 
+> We can use the command "cat" to check the content in the 22.md line.
 ![cat1](cat1.png)
 
 ![output1](test1output.png)
 
 # Test 2.
+
+> As shown in the screenshot below, we can see the difference is exist in line 492.
 ![test2](test2.png)
 
+> As shown in the screenshot below, we can find the testing correspond to the markdown file: 
 ![code2](test2code.png)
 
+> We can use the command "cat" to check the content in the 22.md line.
 ![cat2](cat2.png)
 
 ![output2](test2output.png)
