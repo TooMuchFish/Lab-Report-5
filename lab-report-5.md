@@ -23,8 +23,7 @@ diff m3/results.txt markdown-parser/results.txt"
 
 # Test 1.
 
-> As shown in the screenshot below, we can see the difference is exist in line 270.
-> actual output
+> As shown in the screenshot below, we can see the difference of actual output is exist in line 270.
 ![test1](test1.png)
 
 > As shown in the screenshot below, we can find the testing correspond to the markdown file: 
@@ -38,7 +37,7 @@ diff m3/results.txt markdown-parser/results.txt"
 
 # Test 2.
 
-> As shown in the screenshot below, we can see the difference is exist in line 492.
+> As shown in the screenshot below, we can see the difference of actual output is exist in line 492.
 ![test2](test2.png)
 
 > As shown in the screenshot below, we can find the testing correspond to the markdown file: 
