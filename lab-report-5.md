@@ -46,6 +46,6 @@ diff m3/results.txt markdown-parser/results.txt"
 > We can use the command "cat" to check the content in the 32.md line.
 ![cat2](cat2.png)
 
-> Expecting output by using the CommonMark demo site.
+> Expecting output by using the [CommonMark demo site](https://spec.commonmark.org/dingus/).
 ![output2](test2output.png)
 
