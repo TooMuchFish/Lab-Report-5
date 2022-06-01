@@ -7,16 +7,17 @@
 ![welcome](https://user-images.githubusercontent.com/103075501/162642398-9902f982-4aa5-4e33-816d-d0eba4ceace9.jpeg)
 >
 # Choose TWO tests from the 652 tests in result.txt files
-> By using the terminal in my VScode, I used the command "diff" to compare the results we get from running the "bash script.sh" on the both of those implement.
-> By log in the ssh ieng6, we can access the remote account, and we can use the following command in it.
+> By using the remote `ssh ieng6` in the terminal of my VScode, I used the command `diff` to compare the results that we get from running the `bash script.sh` on the both of those implementations.
+> By log in with ssh ieng6, we can access the remote account, and we can use the following command to run it in terminal.
 
 ___
 ```
 diff m3/results.txt markdown-parser/results.txt"
 ```
 
-> I renamed my own implementation "markdown-parse" to "m3".
-> And I cloned professor implementation "markdown-parse".
+> I renamed my own implementation `markdown-parse` to `m3`.
+> And I cloned professor implementation `markdown-parse`.
+> Here is the output after I run the command in terminal.
 
 ![result](resulttxt.png)
 
