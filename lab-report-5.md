@@ -41,7 +41,7 @@ diff m3/results.txt markdown-parser/results.txt"
 ![output1](test1output.png)
 
 > ![code](code.png)
-> The above screenshot show the code of makedown file, this error took placed because the format problem, 
+> The screenshot shows above was the code of makedown file, the error was take place because the format problem, if we want to fix this error, we just simply use the correct format.
 
 
 # Test 2.
@@ -63,4 +63,4 @@ diff m3/results.txt markdown-parser/results.txt"
 ![output2](test2output.png)
 
 > ![code](code.png)
-> The above screen shot show the code of makedown file, this error took placed because the format problem.
+> The screenshot shows above was the code of makedown file, the error was take place because the format problem, if we want to fix this error, we just simply use the correct format.
