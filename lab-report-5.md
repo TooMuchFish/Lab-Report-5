@@ -30,7 +30,7 @@ diff m3/results.txt markdown-parser/results.txt"
 > As shown in the screenshot below, we can find the testing correspond to the markdown file: 
 ![code1](test1code.png)
 
->link to the markdown file
+>Link to the markdown file
 >
 >[links md file](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/22.md)
 >
@@ -50,6 +50,10 @@ diff m3/results.txt markdown-parser/results.txt"
 > As shown in the screenshot below, we can find the testing correspond to the markdown file: 
 ![code2](test2code.png)
 
+> Link to the makedown file
+> 
+> [link md file](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/32.md)
+> 
 > We can use the command `cat` to check the content in the 32.md line.
 ![cat2](cat2.png)
 
