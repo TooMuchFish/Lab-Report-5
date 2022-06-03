@@ -39,9 +39,11 @@ diff m3/results.txt markdown-parser/results.txt"
 
 > The expecting output by using [the CommonMark demo site](https://spec.commonmark.org/dingus/).
 ![output1](test1output.png)
->
-![code](code.png)
->
+
+> ![code](code.png)
+> The above screenshot show the code of makedown file, this error took placed because the format problem, 
+
+
 # Test 2.
 
 > As shown in the screenshot below, we can see the difference of actual output is existing in line 492.
@@ -59,5 +61,6 @@ diff m3/results.txt markdown-parser/results.txt"
 
 > The expecting output by using [the CommonMark demo site](https://spec.commonmark.org/dingus/).
 ![output2](test2output.png)
->
-![code](code.png)
+
+> ![code](code.png)
+> The above screen shot show the code of makedown file, this error took placed because the format problem.
